@@ -14,3 +14,4 @@ narciss_f = Host
 solareclipse84 = Host
 kreeperhlc = Host
 vallat = Host
+memeopolis = Host

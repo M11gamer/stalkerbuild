@@ -167,7 +167,7 @@
 	spawn(thinkrate)
 		Think()
 
-/obj/item/weapon/storage/belt/stalker/artefact_belt/handle_item_insertion(obj/item/W, prevent_warning = 0, mob/user).
+/obj/item/weapon/storage/belt/stalker/artefact_belt/handle_item_insertion(obj/item/W, prevent_warning = 0, mob/user)
 	if(..(W, prevent_warning, user) && istype(W, /obj/item/weapon/artefact))
 		var/obj/item/weapon/artefact/Artefact = W
 		var/mob/living/carbon/mob = loc

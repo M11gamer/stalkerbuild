@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
-LAST_COMPILE_TIME: 1482584353
-DIR: code code\__HELPERS code\__HELPERS\bygex code\_onclick code\_onclick\hud code\controllers code\controllers\subsystem code\datums code\datums\diseases code\datums\diseases\advance code\datums\diseases\advance\symptoms code\game code\game\machinery code\game\machinery\computer code\game\machinery\doors code\game\objects code\game\objects\devices code\game\objects\devices\PDA code\game\objects\items code\game\objects\items\devices code\game\objects\items\devices\PDA code\game\objects\items\weapons code\game\objects\structures code\game\objects\structures\transit_tubes code\modules code\modules\admin code\modules\admin\verbs code\modules\detectivework code\modules\flufftext code\modules\json code\modules\mob code\modules\mob\living code\modules\mob\living\carbon code\modules\mob\living\carbon\human code\modules\ninja code\modules\ninja\suit code\modules\projectiles code\modules\tgui code\modules\vehicles code\orphaned procs icons icons\effects sound sound\magic sound\vox_fem tools tools\Redirector 
+LAST_COMPILE_TIME: 1524514343
+DIR: code code\__HELPERS code\__HELPERS\bygex code\_onclick code\_onclick\hud code\controllers code\controllers\subsystem code\datums code\datums\diseases code\datums\diseases\advance code\datums\diseases\advance\symptoms code\game code\game\gamemodes code\game\gamemodes\wizard code\game\machinery code\game\mecha code\game\mecha\combat code\game\mecha\equipment code\game\mecha\equipment\tools code\game\objects code\game\objects\items code\game\objects\items\devices code\game\objects\items\devices\PDA code\game\objects\structures code\game\objects\structures\transit_tubes code\game\stalker code\game\stalker\objects code\game\stalker\objects\items code\game\stalker\objects\items\artefacts code\modules code\modules\json code\modules\projectiles config 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
-LAST_COMPILE_VERSION: 511.1366
-WINDOW: code\game\objects\items\devices\PDA\PDA.dm;code\modules\projectiles\firing.dm;code\modules\json\json.dm;code\game\objects\structures\transit_tubes\transit_tube.dm;code\game\objects\structures\transit_tubes\transit_tube_construction.dm
-FILE: code\game\objects\structures\transit_tubes\transit_tube_construction.dm
+LAST_COMPILE_VERSION: 512.1422
+WINDOW: code\game\mecha\mecha_topic.dm
+FILE: code\game\mecha\mecha_topic.dm
 */
 // END_INTERNALS
