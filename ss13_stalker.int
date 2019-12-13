@@ -1,11 +1,12 @@
 // BEGIN_INTERNALS
 /*
-LAST_COMPILE_TIME: 1524514343
-DIR: code code\__HELPERS code\__HELPERS\bygex code\_onclick code\_onclick\hud code\controllers code\controllers\subsystem code\datums code\datums\diseases code\datums\diseases\advance code\datums\diseases\advance\symptoms code\game code\game\gamemodes code\game\gamemodes\wizard code\game\machinery code\game\mecha code\game\mecha\combat code\game\mecha\equipment code\game\mecha\equipment\tools code\game\objects code\game\objects\items code\game\objects\items\devices code\game\objects\items\devices\PDA code\game\objects\structures code\game\objects\structures\transit_tubes code\game\stalker code\game\stalker\objects code\game\stalker\objects\items code\game\stalker\objects\items\artefacts code\modules code\modules\json code\modules\projectiles config 
+MAP_ZOOM: 1.000
+LAST_COMPILE_TIME: 1576271993
+DIR: _maps _maps\map_files _maps\map_files\Stalker _maps\map_files\Stalker\Zona code code\__HELPERS code\datums code\game code\game\machinery code\game\objects code\game\objects\structures code\modules code\modules\admin code\modules\mob code\modules\mob\living code\modules\mob\living\carbon code\modules\mob\living\carbon\human code\modules\mob\living\simple_animal code\modules\mob\living\simple_animal\hostile tools tools\Redirector 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
-LAST_COMPILE_VERSION: 512.1422
-WINDOW: code\game\mecha\mecha_topic.dm
-FILE: code\game\mecha\mecha_topic.dm
+LAST_COMPILE_VERSION: 513.1503
+WINDOW: _maps\map_files\Stalker\Zona\kordon.dmm;code\__HELPERS\unsorted.dm;code\modules\mob\living\simple_animal\hostile\mining_mobs.dm;code\game\objects\structures\musician.dm;code\modules\admin\topic.dm;code\__HELPERS\text.dm;code\datums\mutations.dm;code\game\machinery\newscaster.dm;code\game\machinery\status_display.dm;code\modules\mob\mob_helpers.dm;code\modules\mob\living\carbon\human\blood.dm;tools\Redirector\textprocs.dm
+FILE: code\modules\admin\topic.dm
 */
 // END_INTERNALS
